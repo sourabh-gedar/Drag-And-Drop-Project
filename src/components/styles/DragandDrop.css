@@ -1,0 +1,33 @@
+.DragDropContainer{
+
+    display: flex;
+    justify-content: center;
+    height: 100%;
+}
+
+.objectDiv{
+    display: flex;
+    flex-direction: column;
+    /* height: 100%; */
+    align-items: center;
+}
+
+
+.droppableDiv{
+    margin:8px;
+}
+
+.buttons{
+    /* height: 10%;
+    width: 15%; */
+    /* margin-left:2%; */
+    text-align: end;    
+    /* padding: ;
+     */
+}
+.content{
+    /* float: left;
+    
+    display: flex; */
+    text-align: start;
+}
